@@ -1,0 +1,31 @@
+(\ i. \ c. 
+	c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(
+	c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(
+	c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(c(
+	c(c(c(c(c(c i 
+	i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)
+	i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)
+	i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)
+	i)i)i)i)i)i)
+(\ x. x)
+(\ s. \ z. 
+	s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(
+	s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(
+	s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(
+	s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s(s z
+	))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))
+	)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))
+(*
+(\ n. / succ n)
+_ z
+*)
+
+(*
+
+(\ i. \ c. c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c s i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)i)
+ (\ x. x)
+ (\ s. \ z. s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s z)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))
+
+(\ n. / succ n)
+_ z
+*)

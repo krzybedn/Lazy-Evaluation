@@ -1,0 +1,5 @@
+(\ n. \ m. \ s. \ z. (n s) ((m s) z))
+(\ s. \ z. s (s (s (s z))))
+(\ s. \ z. s (s  z))
+(\ z. / succ z)
+_ z

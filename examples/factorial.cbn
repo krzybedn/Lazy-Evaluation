@@ -1,0 +1,19 @@
+(\ zero. \ succ. \ fix. \ add. \ mult.
+	(\ one. 
+		(\ two. 
+			(\ three. 
+				(\ fac. 
+					fac (mult two two)
+				)(\ k. k (\ p. p (\ a. \ b. \ g. g (succ a) (mult a b))) (\ g. g one one) (\ a. \ b. b))
+			)(succ two)
+		)(succ one)
+	)(succ zero)
+)
+(\ s. \ z. z)
+(\ n. \ s. \ z. s (n s z))
+(\ g. (\ x. g (x x)) (\ x. g (x x)))
+(\ n. \ m. \ s. \ z. n s (m s z))
+(\ n. \ m. \ s. \ z. n (m s) z)
+
+(\ n. / succ n)
+_ z

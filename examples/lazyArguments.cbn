@@ -1,0 +1,1 @@
+(\ n1. \ n2. \ n3. / succ n2) _ z (/ succ _ z) (/ succ / succ _ z) 

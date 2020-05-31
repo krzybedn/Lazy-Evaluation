@@ -1,0 +1,9 @@
+(\ mult. \ add. \ a. \ b. add (mult a a)  (mult b b))
+(\ a. \ b. \ f. \ x. (a (b f)) x)
+(\ a. \ b. \ f. \ x. (a f) ((b f) x))
+
+(\ f. \ x. f (f (f x))) 
+(\ f. \ x. f (f (f (f  x))) )
+
+(\ x. / succ x) 
+_ z
